@@ -1,0 +1,5094 @@
+[{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7b04"
+  },
+  "modelCount": 5,
+  "brand": "Dodge",
+  "year": 1992,
+  "avgPrice": 26203.51
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7b05"
+  },
+  "modelCount": 1,
+  "brand": "Volkswagen",
+  "year": 1990,
+  "avgPrice": 25036.24
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7b06"
+  },
+  "modelCount": 1,
+  "brand": "Kia",
+  "year": 1995,
+  "avgPrice": 21550.42
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7b07"
+  },
+  "modelCount": 2,
+  "brand": "Mitsubishi",
+  "year": 2001,
+  "avgPrice": 27057.71
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7b08"
+  },
+  "modelCount": 1,
+  "brand": "Audi",
+  "year": 2004,
+  "avgPrice": 29899.37
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7b09"
+  },
+  "modelCount": 2,
+  "brand": "Scion",
+  "year": 2012,
+  "avgPrice": 26259.49
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7b0a"
+  },
+  "modelCount": 2,
+  "brand": "Pontiac",
+  "year": 1984,
+  "avgPrice": 25202.88
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7b0b"
+  },
+  "modelCount": 1,
+  "brand": "Citroën",
+  "year": 1989,
+  "avgPrice": 22005.65
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7b0c"
+  },
+  "modelCount": 2,
+  "brand": "Volkswagen",
+  "year": 2000,
+  "avgPrice": 22045.44
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7b0d"
+  },
+  "modelCount": 1,
+  "brand": "Nissan",
+  "year": 2002,
+  "avgPrice": 27704.03
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7b0e"
+  },
+  "modelCount": 2,
+  "brand": "Mercury",
+  "year": 2006,
+  "avgPrice": 24612.44
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7b0f"
+  },
+  "modelCount": 1,
+  "brand": "Mercedes-Benz",
+  "year": 2006,
+  "avgPrice": 28911.06
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7b10"
+  },
+  "modelCount": 1,
+  "brand": "Volvo",
+  "year": 1993,
+  "avgPrice": 27620.86
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7b11"
+  },
+  "modelCount": 4,
+  "brand": "Mitsubishi",
+  "year": 2000,
+  "avgPrice": 23495.49
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7b12"
+  },
+  "modelCount": 4,
+  "brand": "Dodge",
+  "year": 1994,
+  "avgPrice": 24574.2
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7b13"
+  },
+  "modelCount": 2,
+  "brand": "Infiniti",
+  "year": 2011,
+  "avgPrice": 23641.64
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7b14"
+  },
+  "modelCount": 1,
+  "brand": "Mercury",
+  "year": 2001,
+  "avgPrice": 27280.7
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7b15"
+  },
+  "modelCount": 6,
+  "brand": "Ford",
+  "year": 1997,
+  "avgPrice": 24171.86
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7b16"
+  },
+  "modelCount": 1,
+  "brand": "BMW",
+  "year": 2001,
+  "avgPrice": 29183.36
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7b17"
+  },
+  "modelCount": 1,
+  "brand": "Honda",
+  "year": 1999,
+  "avgPrice": 28700.69
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7b18"
+  },
+  "modelCount": 1,
+  "brand": "Hummer",
+  "year": 2010,
+  "avgPrice": 20782.85
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7b19"
+  },
+  "modelCount": 2,
+  "brand": "Pontiac",
+  "year": 2005,
+  "avgPrice": 20452.61
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7b1a"
+  },
+  "modelCount": 1,
+  "brand": "Lexus",
+  "year": 1994,
+  "avgPrice": 20077.02
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7b1b"
+  },
+  "modelCount": 1,
+  "brand": "Hyundai",
+  "year": 2009,
+  "avgPrice": 24984.43
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7b1c"
+  },
+  "modelCount": 2,
+  "brand": "Jaguar",
+  "year": 2002,
+  "avgPrice": 28748.64
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7b1d"
+  },
+  "modelCount": 2,
+  "brand": "GMC",
+  "year": 2010,
+  "avgPrice": 25420.28
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7b1e"
+  },
+  "modelCount": 1,
+  "brand": "Mitsubishi",
+  "year": 1990,
+  "avgPrice": 24732
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7b1f"
+  },
+  "modelCount": 2,
+  "brand": "Lamborghini",
+  "year": 2008,
+  "avgPrice": 27007.92
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7b20"
+  },
+  "modelCount": 2,
+  "brand": "Honda",
+  "year": 1996,
+  "avgPrice": 25587.6
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7b21"
+  },
+  "modelCount": 1,
+  "brand": "Suzuki",
+  "year": 1985,
+  "avgPrice": 24736.45
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7b22"
+  },
+  "modelCount": 1,
+  "brand": "Lotus",
+  "year": 2009,
+  "avgPrice": 27212.4
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7b23"
+  },
+  "modelCount": 1,
+  "brand": "Kia",
+  "year": 2000,
+  "avgPrice": 28558.43
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7b24"
+  },
+  "modelCount": 4,
+  "brand": "Ford",
+  "year": 1995,
+  "avgPrice": 24694.03
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7b25"
+  },
+  "modelCount": 3,
+  "brand": "Ford",
+  "year": 2007,
+  "avgPrice": 24144.91
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7b26"
+  },
+  "modelCount": 4,
+  "brand": "Pontiac",
+  "year": 1985,
+  "avgPrice": 25253.81
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7b27"
+  },
+  "modelCount": 2,
+  "brand": "Honda",
+  "year": 2002,
+  "avgPrice": 25199.47
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7b28"
+  },
+  "modelCount": 1,
+  "brand": "Subaru",
+  "year": 1993,
+  "avgPrice": 24012.3
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7b29"
+  },
+  "modelCount": 1,
+  "brand": "Aston Martin",
+  "year": 2011,
+  "avgPrice": 27220.13
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7b2a"
+  },
+  "modelCount": 2,
+  "brand": "Volkswagen",
+  "year": 2012,
+  "avgPrice": 27913.22
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7b2b"
+  },
+  "modelCount": 1,
+  "brand": "Saab",
+  "year": 1986,
+  "avgPrice": 24581.43
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7b2c"
+  },
+  "modelCount": 2,
+  "brand": "Mercury",
+  "year": 2004,
+  "avgPrice": 24322.43
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7b2d"
+  },
+  "modelCount": 1,
+  "brand": "Mercury",
+  "year": 1967,
+  "avgPrice": 21835.45
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7b2e"
+  },
+  "modelCount": 2,
+  "brand": "Cadillac",
+  "year": 2010,
+  "avgPrice": 24649.43
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7b2f"
+  },
+  "modelCount": 2,
+  "brand": "Jeep",
+  "year": 2007,
+  "avgPrice": 21373.56
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7b30"
+  },
+  "modelCount": 1,
+  "brand": "Hyundai",
+  "year": 2000,
+  "avgPrice": 20785.41
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7b31"
+  },
+  "modelCount": 3,
+  "brand": "Chevrolet",
+  "year": 2009,
+  "avgPrice": 24005.06
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7b32"
+  },
+  "modelCount": 2,
+  "brand": "Mercury",
+  "year": 1996,
+  "avgPrice": 22865.73
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7b33"
+  },
+  "modelCount": 1,
+  "brand": "Subaru",
+  "year": 2007,
+  "avgPrice": 25000.23
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7b34"
+  },
+  "modelCount": 1,
+  "brand": "Mercury",
+  "year": 1993,
+  "avgPrice": 20998.11
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7b35"
+  },
+  "modelCount": 1,
+  "brand": "Tesla",
+  "year": 2010,
+  "avgPrice": 21272.82
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7b36"
+  },
+  "modelCount": 1,
+  "brand": "Lexus",
+  "year": 1989,
+  "avgPrice": 23662.73
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7b37"
+  },
+  "modelCount": 3,
+  "brand": "Toyota",
+  "year": 2000,
+  "avgPrice": 24921.07
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7b38"
+  },
+  "modelCount": 2,
+  "brand": "Cadillac",
+  "year": 1993,
+  "avgPrice": 22018.01
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7b39"
+  },
+  "modelCount": 1,
+  "brand": "Buick",
+  "year": 2002,
+  "avgPrice": 28976.64
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7b3a"
+  },
+  "modelCount": 1,
+  "brand": "Suzuki",
+  "year": 1993,
+  "avgPrice": 28837.36
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7b3b"
+  },
+  "modelCount": 1,
+  "brand": "Plymouth",
+  "year": 1992,
+  "avgPrice": 27906.76
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7b3c"
+  },
+  "modelCount": 1,
+  "brand": "Mercedes-Benz",
+  "year": 1999,
+  "avgPrice": 20041.44
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7b3d"
+  },
+  "modelCount": 2,
+  "brand": "Mercedes-Benz",
+  "year": 2002,
+  "avgPrice": 26893.12
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7b3e"
+  },
+  "modelCount": 1,
+  "brand": "Hyundai",
+  "year": 2008,
+  "avgPrice": 25673.67
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7b3f"
+  },
+  "modelCount": 3,
+  "brand": "BMW",
+  "year": 2005,
+  "avgPrice": 26825.58
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7b40"
+  },
+  "modelCount": 2,
+  "brand": "Volkswagen",
+  "year": 2009,
+  "avgPrice": 25773.69
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7b41"
+  },
+  "modelCount": 2,
+  "brand": "Mercury",
+  "year": 1991,
+  "avgPrice": 24649
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7b42"
+  },
+  "modelCount": 3,
+  "brand": "Volkswagen",
+  "year": 2001,
+  "avgPrice": 24466.32
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7b43"
+  },
+  "modelCount": 1,
+  "brand": "Mercedes-Benz",
+  "year": 2005,
+  "avgPrice": 29437.95
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7b44"
+  },
+  "modelCount": 1,
+  "brand": "Mitsubishi",
+  "year": 2006,
+  "avgPrice": 24602.22
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7b45"
+  },
+  "modelCount": 1,
+  "brand": "Pontiac",
+  "year": 2009,
+  "avgPrice": 22706.33
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7b46"
+  },
+  "modelCount": 1,
+  "brand": "Kia",
+  "year": 2008,
+  "avgPrice": 29616.09
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7b47"
+  },
+  "modelCount": 2,
+  "brand": "Lexus",
+  "year": 2010,
+  "avgPrice": 23456.86
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7b48"
+  },
+  "modelCount": 1,
+  "brand": "Lincoln",
+  "year": 1998,
+  "avgPrice": 29849.33
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7b49"
+  },
+  "modelCount": 1,
+  "brand": "Aston Martin",
+  "year": 2009,
+  "avgPrice": 22266.78
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7b4a"
+  },
+  "modelCount": 1,
+  "brand": "Volvo",
+  "year": 1992,
+  "avgPrice": 27500.12
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7b4b"
+  },
+  "modelCount": 1,
+  "brand": "Ram",
+  "year": 2012,
+  "avgPrice": 24496.4
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7b4c"
+  },
+  "modelCount": 1,
+  "brand": "Toyota",
+  "year": 1987,
+  "avgPrice": 23360.09
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7b4d"
+  },
+  "modelCount": 1,
+  "brand": "Porsche",
+  "year": 2013,
+  "avgPrice": 24580.79
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7b4e"
+  },
+  "modelCount": 1,
+  "brand": "Pontiac",
+  "year": 1962,
+  "avgPrice": 23078.24
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7b4f"
+  },
+  "modelCount": 1,
+  "brand": "Subaru",
+  "year": 1998,
+  "avgPrice": 21498.6
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7b50"
+  },
+  "modelCount": 3,
+  "brand": "GMC",
+  "year": 2000,
+  "avgPrice": 23096.95
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7b51"
+  },
+  "modelCount": 2,
+  "brand": "Pontiac",
+  "year": 1995,
+  "avgPrice": 23572.62
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7b52"
+  },
+  "modelCount": 1,
+  "brand": "Porsche",
+  "year": 2008,
+  "avgPrice": 25375.72
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7b53"
+  },
+  "modelCount": 1,
+  "brand": "Mercury",
+  "year": 2000,
+  "avgPrice": 20979.64
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7b54"
+  },
+  "modelCount": 1,
+  "brand": "Land Rover",
+  "year": 1992,
+  "avgPrice": 29139.69
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7b55"
+  },
+  "modelCount": 2,
+  "brand": "Toyota",
+  "year": 1995,
+  "avgPrice": 25600.94
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7b56"
+  },
+  "modelCount": 1,
+  "brand": "Subaru",
+  "year": 2009,
+  "avgPrice": 22687.29
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7b57"
+  },
+  "modelCount": 2,
+  "brand": "Kia",
+  "year": 2004,
+  "avgPrice": 22465.1
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7b58"
+  },
+  "modelCount": 1,
+  "brand": "Mercury",
+  "year": 1990,
+  "avgPrice": 24100.86
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7b59"
+  },
+  "modelCount": 1,
+  "brand": "Subaru",
+  "year": 1985,
+  "avgPrice": 20931.37
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7b5a"
+  },
+  "modelCount": 1,
+  "brand": "Honda",
+  "year": 2006,
+  "avgPrice": 29238.54
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7b5b"
+  },
+  "modelCount": 2,
+  "brand": "Acura",
+  "year": 2001,
+  "avgPrice": 25543.71
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7b5c"
+  },
+  "modelCount": 1,
+  "brand": "Hyundai",
+  "year": 1993,
+  "avgPrice": 20884.95
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7b5d"
+  },
+  "modelCount": 1,
+  "brand": "Honda",
+  "year": 2010,
+  "avgPrice": 25738.78
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7b5e"
+  },
+  "modelCount": 5,
+  "brand": "Ford",
+  "year": 1987,
+  "avgPrice": 25988.99
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7b5f"
+  },
+  "modelCount": 1,
+  "brand": "Kia",
+  "year": 2013,
+  "avgPrice": 20446.98
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7b60"
+  },
+  "modelCount": 1,
+  "brand": "Lincoln",
+  "year": 1988,
+  "avgPrice": 24824.65
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7b61"
+  },
+  "modelCount": 1,
+  "brand": "Acura",
+  "year": 2009,
+  "avgPrice": 23615.25
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7b62"
+  },
+  "modelCount": 1,
+  "brand": "Saab",
+  "year": 2006,
+  "avgPrice": 24776.36
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7b63"
+  },
+  "modelCount": 5,
+  "brand": "Volkswagen",
+  "year": 1987,
+  "avgPrice": 24569.11
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7b64"
+  },
+  "modelCount": 2,
+  "brand": "BMW",
+  "year": 2009,
+  "avgPrice": 23070.48
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7b65"
+  },
+  "modelCount": 1,
+  "brand": "Subaru",
+  "year": 2012,
+  "avgPrice": 25335.66
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7b66"
+  },
+  "modelCount": 1,
+  "brand": "Aston Martin",
+  "year": 2012,
+  "avgPrice": 25962.13
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7b67"
+  },
+  "modelCount": 1,
+  "brand": "Honda",
+  "year": 2004,
+  "avgPrice": 21800.18
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7b68"
+  },
+  "modelCount": 2,
+  "brand": "Pontiac",
+  "year": 1991,
+  "avgPrice": 24084.71
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7b69"
+  },
+  "modelCount": 4,
+  "brand": "BMW",
+  "year": 2007,
+  "avgPrice": 24409.6
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7b6a"
+  },
+  "modelCount": 1,
+  "brand": "Pontiac",
+  "year": 1987,
+  "avgPrice": 24751.66
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7b6b"
+  },
+  "modelCount": 1,
+  "brand": "Kia",
+  "year": 1996,
+  "avgPrice": 21196.88
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7b6c"
+  },
+  "modelCount": 2,
+  "brand": "Lexus",
+  "year": 2004,
+  "avgPrice": 26758.57
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7b6d"
+  },
+  "modelCount": 4,
+  "brand": "GMC",
+  "year": 1992,
+  "avgPrice": 23644.22
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7b6e"
+  },
+  "modelCount": 5,
+  "brand": "GMC",
+  "year": 1996,
+  "avgPrice": 24394.37
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7b6f"
+  },
+  "modelCount": 3,
+  "brand": "Volkswagen",
+  "year": 1993,
+  "avgPrice": 25114.85
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7b70"
+  },
+  "modelCount": 1,
+  "brand": "Mercury",
+  "year": 1989,
+  "avgPrice": 27680.85
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7b71"
+  },
+  "modelCount": 1,
+  "brand": "Volkswagen",
+  "year": 1995,
+  "avgPrice": 27886.13
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7b72"
+  },
+  "modelCount": 1,
+  "brand": "Mazda",
+  "year": 2003,
+  "avgPrice": 27332.5
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7b73"
+  },
+  "modelCount": 2,
+  "brand": "Mitsubishi",
+  "year": 1986,
+  "avgPrice": 23861.59
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7b74"
+  },
+  "modelCount": 2,
+  "brand": "Nissan",
+  "year": 2003,
+  "avgPrice": 26441.31
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7b75"
+  },
+  "modelCount": 1,
+  "brand": "Subaru",
+  "year": 2001,
+  "avgPrice": 27084.57
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7b76"
+  },
+  "modelCount": 3,
+  "brand": "Chevrolet",
+  "year": 2012,
+  "avgPrice": 22358.65
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7b77"
+  },
+  "modelCount": 1,
+  "brand": "Ford",
+  "year": 1984,
+  "avgPrice": 26346.21
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7b78"
+  },
+  "modelCount": 1,
+  "brand": "Lamborghini",
+  "year": 1997,
+  "avgPrice": 25733.11
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7b79"
+  },
+  "modelCount": 2,
+  "brand": "Mercedes-Benz",
+  "year": 2003,
+  "avgPrice": 24101.39
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7b7a"
+  },
+  "modelCount": 2,
+  "brand": "Jaguar",
+  "year": 2006,
+  "avgPrice": 28818.7
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7b7b"
+  },
+  "modelCount": 1,
+  "brand": "Chevrolet",
+  "year": 1985,
+  "avgPrice": 24846.72
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7b7c"
+  },
+  "modelCount": 1,
+  "brand": "Audi",
+  "year": 2002,
+  "avgPrice": 26917.39
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7b7d"
+  },
+  "modelCount": 1,
+  "brand": "Isuzu",
+  "year": 1998,
+  "avgPrice": 22915.56
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7b7e"
+  },
+  "modelCount": 3,
+  "brand": "Infiniti",
+  "year": 2006,
+  "avgPrice": 24541.79
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7b7f"
+  },
+  "modelCount": 2,
+  "brand": "Volvo",
+  "year": 2000,
+  "avgPrice": 26203.58
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7b80"
+  },
+  "modelCount": 1,
+  "brand": "Acura",
+  "year": 1998,
+  "avgPrice": 21863.81
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7b81"
+  },
+  "modelCount": 1,
+  "brand": "Suzuki",
+  "year": 2001,
+  "avgPrice": 27532.69
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7b82"
+  },
+  "modelCount": 2,
+  "brand": "Ford",
+  "year": 1998,
+  "avgPrice": 25206.99
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7b83"
+  },
+  "modelCount": 1,
+  "brand": "Kia",
+  "year": 2006,
+  "avgPrice": 22265.83
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7b84"
+  },
+  "modelCount": 4,
+  "brand": "Ford",
+  "year": 1985,
+  "avgPrice": 26630.39
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7b85"
+  },
+  "modelCount": 1,
+  "brand": "Pontiac",
+  "year": 2001,
+  "avgPrice": 25657.96
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7b86"
+  },
+  "modelCount": 5,
+  "brand": "Chevrolet",
+  "year": 1998,
+  "avgPrice": 28254.35
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7b87"
+  },
+  "modelCount": 2,
+  "brand": "Toyota",
+  "year": 2008,
+  "avgPrice": 26297.1
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7b88"
+  },
+  "modelCount": 1,
+  "brand": "Infiniti",
+  "year": 2004,
+  "avgPrice": 22607.7
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7b89"
+  },
+  "modelCount": 1,
+  "brand": "Suzuki",
+  "year": 2009,
+  "avgPrice": 23767.35
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7b8a"
+  },
+  "modelCount": 2,
+  "brand": "GMC",
+  "year": 1994,
+  "avgPrice": 25095.36
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7b8b"
+  },
+  "modelCount": 1,
+  "brand": "Lexus",
+  "year": 2006,
+  "avgPrice": 20624.73
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7b8c"
+  },
+  "modelCount": 8,
+  "brand": "Mercedes-Benz",
+  "year": 2011,
+  "avgPrice": 24640.86
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7b8d"
+  },
+  "modelCount": 2,
+  "brand": "Mercury",
+  "year": 2008,
+  "avgPrice": 28916.85
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7b8e"
+  },
+  "modelCount": 2,
+  "brand": "Suzuki",
+  "year": 2007,
+  "avgPrice": 23259.97
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7b8f"
+  },
+  "modelCount": 1,
+  "brand": "Spyker",
+  "year": 2006,
+  "avgPrice": 22937.77
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7b90"
+  },
+  "modelCount": 1,
+  "brand": "Chrysler",
+  "year": 2001,
+  "avgPrice": 21276.96
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7b91"
+  },
+  "modelCount": 1,
+  "brand": "Pontiac",
+  "year": 1981,
+  "avgPrice": 28303.81
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7b92"
+  },
+  "modelCount": 1,
+  "brand": "Volkswagen",
+  "year": 1997,
+  "avgPrice": 28671.25
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7b93"
+  },
+  "modelCount": 6,
+  "brand": "Dodge",
+  "year": 1999,
+  "avgPrice": 23678.64
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7b94"
+  },
+  "modelCount": 1,
+  "brand": "Chrysler",
+  "year": 1993,
+  "avgPrice": 21083.69
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7b95"
+  },
+  "modelCount": 3,
+  "brand": "Nissan",
+  "year": 2011,
+  "avgPrice": 27277.09
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7b96"
+  },
+  "modelCount": 1,
+  "brand": "Rambler",
+  "year": 1963,
+  "avgPrice": 27527.69
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7b97"
+  },
+  "modelCount": 3,
+  "brand": "Dodge",
+  "year": 2012,
+  "avgPrice": 22723.41
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7b98"
+  },
+  "modelCount": 1,
+  "brand": "Oldsmobile",
+  "year": 1995,
+  "avgPrice": 20464.66
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7b99"
+  },
+  "modelCount": 4,
+  "brand": "Mazda",
+  "year": 1997,
+  "avgPrice": 24366.22
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7b9a"
+  },
+  "modelCount": 2,
+  "brand": "Land Rover",
+  "year": 2002,
+  "avgPrice": 26333.87
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7b9b"
+  },
+  "modelCount": 2,
+  "brand": "Jeep",
+  "year": 2001,
+  "avgPrice": 27171.8
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7b9c"
+  },
+  "modelCount": 1,
+  "brand": "Infiniti",
+  "year": 1994,
+  "avgPrice": 24508.58
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7b9d"
+  },
+  "modelCount": 7,
+  "brand": "Dodge",
+  "year": 2003,
+  "avgPrice": 25140
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7b9e"
+  },
+  "modelCount": 1,
+  "brand": "Suzuki",
+  "year": 1997,
+  "avgPrice": 22662.31
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7b9f"
+  },
+  "modelCount": 1,
+  "brand": "Acura",
+  "year": 2008,
+  "avgPrice": 26094.41
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7ba0"
+  },
+  "modelCount": 1,
+  "brand": "Pontiac",
+  "year": 1986,
+  "avgPrice": 28091.05
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7ba1"
+  },
+  "modelCount": 1,
+  "brand": "Chevrolet",
+  "year": 1971,
+  "avgPrice": 23243.05
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7ba2"
+  },
+  "modelCount": 1,
+  "brand": "Hyundai",
+  "year": 1994,
+  "avgPrice": 24876.12
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7ba3"
+  },
+  "modelCount": 2,
+  "brand": "GMC",
+  "year": 2004,
+  "avgPrice": 24569.92
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7ba4"
+  },
+  "modelCount": 1,
+  "brand": "Subaru",
+  "year": 1990,
+  "avgPrice": 21128.9
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7ba5"
+  },
+  "modelCount": 3,
+  "brand": "Pontiac",
+  "year": 1988,
+  "avgPrice": 23001.83
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7ba6"
+  },
+  "modelCount": 1,
+  "brand": "Oldsmobile",
+  "year": 1993,
+  "avgPrice": 28726.6
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7ba7"
+  },
+  "modelCount": 1,
+  "brand": "Lamborghini",
+  "year": 2002,
+  "avgPrice": 24535.37
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7ba8"
+  },
+  "modelCount": 4,
+  "brand": "Porsche",
+  "year": 2010,
+  "avgPrice": 27386.83
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7ba9"
+  },
+  "modelCount": 2,
+  "brand": "Pontiac",
+  "year": 1992,
+  "avgPrice": 21907.72
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7baa"
+  },
+  "modelCount": 1,
+  "brand": "Toyota",
+  "year": 2010,
+  "avgPrice": 20538.77
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7bab"
+  },
+  "modelCount": 1,
+  "brand": "Isuzu",
+  "year": 1997,
+  "avgPrice": 26631.68
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7bac"
+  },
+  "modelCount": 1,
+  "brand": "Lexus",
+  "year": 2005,
+  "avgPrice": 23948.4
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7bad"
+  },
+  "modelCount": 2,
+  "brand": "GMC",
+  "year": 2006,
+  "avgPrice": 21704.89
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7bae"
+  },
+  "modelCount": 1,
+  "brand": "BMW",
+  "year": 1997,
+  "avgPrice": 22374.82
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7baf"
+  },
+  "modelCount": 1,
+  "brand": "Honda",
+  "year": 2008,
+  "avgPrice": 25396.31
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7bb0"
+  },
+  "modelCount": 1,
+  "brand": "Aptera",
+  "year": 2009,
+  "avgPrice": 27919.49
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7bb1"
+  },
+  "modelCount": 3,
+  "brand": "Mazda",
+  "year": 1994,
+  "avgPrice": 26672.87
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7bb2"
+  },
+  "modelCount": 1,
+  "brand": "Subaru",
+  "year": 2003,
+  "avgPrice": 26030.11
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7bb3"
+  },
+  "modelCount": 2,
+  "brand": "GMC",
+  "year": 2009,
+  "avgPrice": 21439.03
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7bb4"
+  },
+  "modelCount": 2,
+  "brand": "Buick",
+  "year": 1989,
+  "avgPrice": 28214.83
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7bb5"
+  },
+  "modelCount": 2,
+  "brand": "Mercedes-Benz",
+  "year": 1986,
+  "avgPrice": 23852.72
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7bb6"
+  },
+  "modelCount": 2,
+  "brand": "Jeep",
+  "year": 2012,
+  "avgPrice": 25409.44
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7bb7"
+  },
+  "modelCount": 4,
+  "brand": "Toyota",
+  "year": 1996,
+  "avgPrice": 23914.19
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7bb8"
+  },
+  "modelCount": 4,
+  "brand": "Mitsubishi",
+  "year": 1991,
+  "avgPrice": 25413.45
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7bb9"
+  },
+  "modelCount": 1,
+  "brand": "Hummer",
+  "year": 2009,
+  "avgPrice": 21489.93
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7bba"
+  },
+  "modelCount": 2,
+  "brand": "Pontiac",
+  "year": 1994,
+  "avgPrice": 28452.03
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7bbb"
+  },
+  "modelCount": 2,
+  "brand": "Volkswagen",
+  "year": 1989,
+  "avgPrice": 27833.52
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7bbc"
+  },
+  "modelCount": 2,
+  "brand": "Mazda",
+  "year": 2010,
+  "avgPrice": 23191.31
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7bbd"
+  },
+  "modelCount": 1,
+  "brand": "Lincoln",
+  "year": 2007,
+  "avgPrice": 25434.73
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7bbe"
+  },
+  "modelCount": 2,
+  "brand": "GMC",
+  "year": 2001,
+  "avgPrice": 28920.69
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7bbf"
+  },
+  "modelCount": 2,
+  "brand": "Cadillac",
+  "year": 1994,
+  "avgPrice": 25458.72
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7bc0"
+  },
+  "modelCount": 1,
+  "brand": "Volkswagen",
+  "year": 1988,
+  "avgPrice": 24532.38
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7bc1"
+  },
+  "modelCount": 1,
+  "brand": "Bentley",
+  "year": 2008,
+  "avgPrice": 24212.21
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7bc2"
+  },
+  "modelCount": 1,
+  "brand": "Nissan",
+  "year": 2001,
+  "avgPrice": 26679.39
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7bc3"
+  },
+  "modelCount": 2,
+  "brand": "Mercury",
+  "year": 1995,
+  "avgPrice": 22386.79
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7bc4"
+  },
+  "modelCount": 2,
+  "brand": "Rolls-Royce",
+  "year": 2007,
+  "avgPrice": 21240.61
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7bc5"
+  },
+  "modelCount": 1,
+  "brand": "Mercury",
+  "year": 2007,
+  "avgPrice": 25477.48
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7bc6"
+  },
+  "modelCount": 1,
+  "brand": "Mercedes-Benz",
+  "year": 1989,
+  "avgPrice": 29455.24
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7bc7"
+  },
+  "modelCount": 1,
+  "brand": "MINI",
+  "year": 2011,
+  "avgPrice": 24139.4
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7bc8"
+  },
+  "modelCount": 1,
+  "brand": "Porsche",
+  "year": 1992,
+  "avgPrice": 20844.27
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7bc9"
+  },
+  "modelCount": 1,
+  "brand": "Saab",
+  "year": 1991,
+  "avgPrice": 25447.34
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7bca"
+  },
+  "modelCount": 1,
+  "brand": "Buick",
+  "year": 2010,
+  "avgPrice": 23917.69
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7bcb"
+  },
+  "modelCount": 1,
+  "brand": "Buick",
+  "year": 1994,
+  "avgPrice": 23863.16
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7bcc"
+  },
+  "modelCount": 2,
+  "brand": "Dodge",
+  "year": 2006,
+  "avgPrice": 27240.35
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7bcd"
+  },
+  "modelCount": 3,
+  "brand": "Toyota",
+  "year": 1994,
+  "avgPrice": 26183.75
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7bce"
+  },
+  "modelCount": 3,
+  "brand": "Mitsubishi",
+  "year": 1995,
+  "avgPrice": 24241.2
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7bcf"
+  },
+  "modelCount": 1,
+  "brand": "Chevrolet",
+  "year": 1958,
+  "avgPrice": 29393.58
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7bd0"
+  },
+  "modelCount": 2,
+  "brand": "Jeep",
+  "year": 2009,
+  "avgPrice": 29322.28
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7bd1"
+  },
+  "modelCount": 2,
+  "brand": "GMC",
+  "year": 2012,
+  "avgPrice": 22675.99
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7bd2"
+  },
+  "modelCount": 1,
+  "brand": "Subaru",
+  "year": 2006,
+  "avgPrice": 23410.56
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7bd3"
+  },
+  "modelCount": 1,
+  "brand": "Pontiac",
+  "year": 1997,
+  "avgPrice": 24184.77
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7bd4"
+  },
+  "modelCount": 4,
+  "brand": "Chevrolet",
+  "year": 1994,
+  "avgPrice": 25319.9
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7bd5"
+  },
+  "modelCount": 1,
+  "brand": "Volvo",
+  "year": 1998,
+  "avgPrice": 28921.79
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7bd6"
+  },
+  "modelCount": 3,
+  "brand": "Volkswagen",
+  "year": 2010,
+  "avgPrice": 26098.97
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7bd7"
+  },
+  "modelCount": 1,
+  "brand": "Saturn",
+  "year": 1997,
+  "avgPrice": 24526.3
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7bd8"
+  },
+  "modelCount": 1,
+  "brand": "Lincoln",
+  "year": 1991,
+  "avgPrice": 21377.54
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7bd9"
+  },
+  "modelCount": 3,
+  "brand": "Ford",
+  "year": 2002,
+  "avgPrice": 27152.79
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7bda"
+  },
+  "modelCount": 2,
+  "brand": "Land Rover",
+  "year": 1993,
+  "avgPrice": 25642.54
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7bdb"
+  },
+  "modelCount": 2,
+  "brand": "Chevrolet",
+  "year": 1992,
+  "avgPrice": 20435.76
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7bdc"
+  },
+  "modelCount": 1,
+  "brand": "Audi",
+  "year": 1992,
+  "avgPrice": 20963.44
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7bdd"
+  },
+  "modelCount": 1,
+  "brand": "Saab",
+  "year": 1984,
+  "avgPrice": 29911.61
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7bde"
+  },
+  "modelCount": 4,
+  "brand": "Dodge",
+  "year": 1996,
+  "avgPrice": 24142.72
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7bdf"
+  },
+  "modelCount": 1,
+  "brand": "Volvo",
+  "year": 2003,
+  "avgPrice": 29757.22
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7be0"
+  },
+  "modelCount": 2,
+  "brand": "BMW",
+  "year": 1994,
+  "avgPrice": 24035.78
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7be1"
+  },
+  "modelCount": 1,
+  "brand": "Suzuki",
+  "year": 2010,
+  "avgPrice": 28108.99
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7be2"
+  },
+  "modelCount": 1,
+  "brand": "Audi",
+  "year": 1999,
+  "avgPrice": 27621.97
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7be3"
+  },
+  "modelCount": 4,
+  "brand": "Ford",
+  "year": 2000,
+  "avgPrice": 28350.87
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7be4"
+  },
+  "modelCount": 1,
+  "brand": "Bentley",
+  "year": 2012,
+  "avgPrice": 20313.3
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7be5"
+  },
+  "modelCount": 2,
+  "brand": "Dodge",
+  "year": 2010,
+  "avgPrice": 23271.38
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7be6"
+  },
+  "modelCount": 2,
+  "brand": "Mercedes-Benz",
+  "year": 2000,
+  "avgPrice": 21902.45
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7be7"
+  },
+  "modelCount": 4,
+  "brand": "Nissan",
+  "year": 2009,
+  "avgPrice": 26022.49
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7be8"
+  },
+  "modelCount": 2,
+  "brand": "Mitsubishi",
+  "year": 1998,
+  "avgPrice": 22710.62
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7be9"
+  },
+  "modelCount": 1,
+  "brand": "Audi",
+  "year": 1988,
+  "avgPrice": 22625.31
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7bea"
+  },
+  "modelCount": 1,
+  "brand": "Panoz",
+  "year": 2007,
+  "avgPrice": 20641.37
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7beb"
+  },
+  "modelCount": 2,
+  "brand": "Infiniti",
+  "year": 2010,
+  "avgPrice": 27521.14
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7bec"
+  },
+  "modelCount": 2,
+  "brand": "Chevrolet",
+  "year": 2000,
+  "avgPrice": 24152.46
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7bed"
+  },
+  "modelCount": 1,
+  "brand": "Volvo",
+  "year": 2012,
+  "avgPrice": 26459.63
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7bee"
+  },
+  "modelCount": 3,
+  "brand": "Chevrolet",
+  "year": 2010,
+  "avgPrice": 24486.36
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7bef"
+  },
+  "modelCount": 3,
+  "brand": "Toyota",
+  "year": 1999,
+  "avgPrice": 26075.56
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7bf0"
+  },
+  "modelCount": 4,
+  "brand": "Ford",
+  "year": 1993,
+  "avgPrice": 26432.99
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7bf1"
+  },
+  "modelCount": 1,
+  "brand": "Volkswagen",
+  "year": 1985,
+  "avgPrice": 26650.72
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7bf2"
+  },
+  "modelCount": 1,
+  "brand": "Nissan",
+  "year": 2004,
+  "avgPrice": 26779.39
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7bf3"
+  },
+  "modelCount": 2,
+  "brand": "Buick",
+  "year": 1999,
+  "avgPrice": 24898.17
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7bf4"
+  },
+  "modelCount": 1,
+  "brand": "Bentley",
+  "year": 2009,
+  "avgPrice": 27784.08
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7bf5"
+  },
+  "modelCount": 3,
+  "brand": "Oldsmobile",
+  "year": 2002,
+  "avgPrice": 24813.67
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7bf6"
+  },
+  "modelCount": 2,
+  "brand": "Honda",
+  "year": 1990,
+  "avgPrice": 23767.01
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7bf7"
+  },
+  "modelCount": 1,
+  "brand": "Maserati",
+  "year": 1990,
+  "avgPrice": 23254.57
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7bf8"
+  },
+  "modelCount": 3,
+  "brand": "Ford",
+  "year": 1986,
+  "avgPrice": 23786.77
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7bf9"
+  },
+  "modelCount": 3,
+  "brand": "Toyota",
+  "year": 2009,
+  "avgPrice": 23806.03
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7bfa"
+  },
+  "modelCount": 2,
+  "brand": "Mercedes-Benz",
+  "year": 2010,
+  "avgPrice": 24389.35
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7bfb"
+  },
+  "modelCount": 1,
+  "brand": "Land Rover",
+  "year": 1995,
+  "avgPrice": 21330.95
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7bfc"
+  },
+  "modelCount": 3,
+  "brand": "Toyota",
+  "year": 2006,
+  "avgPrice": 22992.21
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7bfd"
+  },
+  "modelCount": 2,
+  "brand": "Nissan",
+  "year": 2012,
+  "avgPrice": 25282.69
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7bfe"
+  },
+  "modelCount": 1,
+  "brand": "Honda",
+  "year": 2003,
+  "avgPrice": 27827.04
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7bff"
+  },
+  "modelCount": 1,
+  "brand": "Lexus",
+  "year": 2003,
+  "avgPrice": 24219.86
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7c00"
+  },
+  "modelCount": 1,
+  "brand": "Volvo",
+  "year": 2004,
+  "avgPrice": 25417.74
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7c01"
+  },
+  "modelCount": 1,
+  "brand": "Jaguar",
+  "year": 2010,
+  "avgPrice": 21664.36
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7c02"
+  },
+  "modelCount": 1,
+  "brand": "Volvo",
+  "year": 2009,
+  "avgPrice": 23759.19
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7c03"
+  },
+  "modelCount": 1,
+  "brand": "Saturn",
+  "year": 1994,
+  "avgPrice": 26032.82
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7c04"
+  },
+  "modelCount": 2,
+  "brand": "Toyota",
+  "year": 2001,
+  "avgPrice": 25463.6
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7c05"
+  },
+  "modelCount": 2,
+  "brand": "Bentley",
+  "year": 2007,
+  "avgPrice": 27687.72
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7c06"
+  },
+  "modelCount": 1,
+  "brand": "Mazda",
+  "year": 1987,
+  "avgPrice": 22579.13
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7c07"
+  },
+  "modelCount": 1,
+  "brand": "Cadillac",
+  "year": 1992,
+  "avgPrice": 23201.02
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7c08"
+  },
+  "modelCount": 1,
+  "brand": "Cadillac",
+  "year": 1954,
+  "avgPrice": 29745.21
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7c09"
+  },
+  "modelCount": 2,
+  "brand": "Plymouth",
+  "year": 1994,
+  "avgPrice": 21397.22
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7c0a"
+  },
+  "modelCount": 2,
+  "brand": "BMW",
+  "year": 2010,
+  "avgPrice": 20738.72
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7c0b"
+  },
+  "modelCount": 2,
+  "brand": "Volvo",
+  "year": 2007,
+  "avgPrice": 25861.53
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7c0c"
+  },
+  "modelCount": 1,
+  "brand": "Citroën",
+  "year": 1972,
+  "avgPrice": 22409.73
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7c0d"
+  },
+  "modelCount": 5,
+  "brand": "Toyota",
+  "year": 2004,
+  "avgPrice": 25305.39
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7c0e"
+  },
+  "modelCount": 1,
+  "brand": "Ford",
+  "year": 1991,
+  "avgPrice": 29493.53
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7c0f"
+  },
+  "modelCount": 3,
+  "brand": "Ford",
+  "year": 2011,
+  "avgPrice": 26189.47
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7c10"
+  },
+  "modelCount": 1,
+  "brand": "Buick",
+  "year": 1992,
+  "avgPrice": 25883.57
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7c11"
+  },
+  "modelCount": 4,
+  "brand": "Mazda",
+  "year": 1992,
+  "avgPrice": 23444.33
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7c12"
+  },
+  "modelCount": 1,
+  "brand": "Audi",
+  "year": 1994,
+  "avgPrice": 21814.56
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7c13"
+  },
+  "modelCount": 1,
+  "brand": "Nissan",
+  "year": 2006,
+  "avgPrice": 27931.03
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7c14"
+  },
+  "modelCount": 1,
+  "brand": "Saab",
+  "year": 2002,
+  "avgPrice": 21184.38
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7c15"
+  },
+  "modelCount": 2,
+  "brand": "Audi",
+  "year": 2005,
+  "avgPrice": 28915.65
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7c16"
+  },
+  "modelCount": 1,
+  "brand": "Pontiac",
+  "year": 1989,
+  "avgPrice": 20193.66
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7c17"
+  },
+  "modelCount": 1,
+  "brand": "Mazda",
+  "year": 2006,
+  "avgPrice": 24017.58
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7c18"
+  },
+  "modelCount": 2,
+  "brand": "Mazda",
+  "year": 1996,
+  "avgPrice": 28400.35
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7c19"
+  },
+  "modelCount": 1,
+  "brand": "Acura",
+  "year": 1995,
+  "avgPrice": 29319.81
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7c1a"
+  },
+  "modelCount": 1,
+  "brand": "Nissan",
+  "year": 1998,
+  "avgPrice": 23826.24
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7c1b"
+  },
+  "modelCount": 1,
+  "brand": "Hyundai",
+  "year": 1992,
+  "avgPrice": 23095.57
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7c1c"
+  },
+  "modelCount": 8,
+  "brand": "Toyota",
+  "year": 2012,
+  "avgPrice": 23600.67
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7c1d"
+  },
+  "modelCount": 1,
+  "brand": "Pontiac",
+  "year": 1965,
+  "avgPrice": 22538.09
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7c1e"
+  },
+  "modelCount": 3,
+  "brand": "Buick",
+  "year": 1987,
+  "avgPrice": 23219.99
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7c1f"
+  },
+  "modelCount": 2,
+  "brand": "Pontiac",
+  "year": 2010,
+  "avgPrice": 25035.49
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7c20"
+  },
+  "modelCount": 1,
+  "brand": "Volkswagen",
+  "year": 1996,
+  "avgPrice": 28000.03
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7c21"
+  },
+  "modelCount": 1,
+  "brand": "Audi",
+  "year": 1996,
+  "avgPrice": 26841.61
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7c22"
+  },
+  "modelCount": 2,
+  "brand": "Kia",
+  "year": 1997,
+  "avgPrice": 25147.85
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7c23"
+  },
+  "modelCount": 2,
+  "brand": "Mercedes-Benz",
+  "year": 1992,
+  "avgPrice": 20725.84
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7c24"
+  },
+  "modelCount": 3,
+  "brand": "Maybach",
+  "year": 2011,
+  "avgPrice": 21929.66
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7c25"
+  },
+  "modelCount": 2,
+  "brand": "Toyota",
+  "year": 1992,
+  "avgPrice": 21521.39
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7c26"
+  },
+  "modelCount": 1,
+  "brand": "Maybach",
+  "year": 2005,
+  "avgPrice": 28711.5
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7c27"
+  },
+  "modelCount": 1,
+  "brand": "Subaru",
+  "year": 2005,
+  "avgPrice": 24920.29
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7c28"
+  },
+  "modelCount": 4,
+  "brand": "Chevrolet",
+  "year": 2006,
+  "avgPrice": 27640.52
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7c29"
+  },
+  "modelCount": 1,
+  "brand": "Chrysler",
+  "year": 1996,
+  "avgPrice": 22691.96
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7c2a"
+  },
+  "modelCount": 1,
+  "brand": "Audi",
+  "year": 2008,
+  "avgPrice": 22490.36
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7c2b"
+  },
+  "modelCount": 1,
+  "brand": "MINI",
+  "year": 2008,
+  "avgPrice": 25597.01
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7c2c"
+  },
+  "modelCount": 1,
+  "brand": "Isuzu",
+  "year": 1999,
+  "avgPrice": 29842.58
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7c2d"
+  },
+  "modelCount": 2,
+  "brand": "Cadillac",
+  "year": 1999,
+  "avgPrice": 26510.32
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7c2e"
+  },
+  "modelCount": 1,
+  "brand": "Subaru",
+  "year": 1999,
+  "avgPrice": 25308.9
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7c2f"
+  },
+  "modelCount": 2,
+  "brand": "Jaguar",
+  "year": 2001,
+  "avgPrice": 26316.64
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7c30"
+  },
+  "modelCount": 1,
+  "brand": "Geo",
+  "year": 1993,
+  "avgPrice": 25480.08
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7c31"
+  },
+  "modelCount": 2,
+  "brand": "Infiniti",
+  "year": 2012,
+  "avgPrice": 23901.49
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7c32"
+  },
+  "modelCount": 1,
+  "brand": "Isuzu",
+  "year": 2002,
+  "avgPrice": 28720.97
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7c33"
+  },
+  "modelCount": 3,
+  "brand": "Honda",
+  "year": 2011,
+  "avgPrice": 25129.01
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7c34"
+  },
+  "modelCount": 1,
+  "brand": "Jeep",
+  "year": 1994,
+  "avgPrice": 22124.41
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7c35"
+  },
+  "modelCount": 1,
+  "brand": "Volkswagen",
+  "year": 2006,
+  "avgPrice": 26623.44
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7c36"
+  },
+  "modelCount": 4,
+  "brand": "Nissan",
+  "year": 1993,
+  "avgPrice": 25419.31
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7c37"
+  },
+  "modelCount": 1,
+  "brand": "Jeep",
+  "year": 1992,
+  "avgPrice": 24041.74
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7c38"
+  },
+  "modelCount": 3,
+  "brand": "Buick",
+  "year": 2001,
+  "avgPrice": 26519.22
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7c39"
+  },
+  "modelCount": 3,
+  "brand": "Dodge",
+  "year": 1995,
+  "avgPrice": 23661.35
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7c3a"
+  },
+  "modelCount": 1,
+  "brand": "Buick",
+  "year": 2004,
+  "avgPrice": 24898.2
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7c3b"
+  },
+  "modelCount": 3,
+  "brand": "Jeep",
+  "year": 2010,
+  "avgPrice": 26883.49
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7c3c"
+  },
+  "modelCount": 3,
+  "brand": "Lotus",
+  "year": 2004,
+  "avgPrice": 23521.88
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7c3d"
+  },
+  "modelCount": 1,
+  "brand": "Volvo",
+  "year": 1999,
+  "avgPrice": 25638.7
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7c3e"
+  },
+  "modelCount": 1,
+  "brand": "Chevrolet",
+  "year": 2004,
+  "avgPrice": 21761.13
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7c3f"
+  },
+  "modelCount": 2,
+  "brand": "BMW",
+  "year": 2002,
+  "avgPrice": 21436.42
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7c40"
+  },
+  "modelCount": 1,
+  "brand": "Mercury",
+  "year": 1984,
+  "avgPrice": 29815.99
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7c41"
+  },
+  "modelCount": 5,
+  "brand": "Cadillac",
+  "year": 2011,
+  "avgPrice": 23324.38
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7c42"
+  },
+  "modelCount": 1,
+  "brand": "Mercury",
+  "year": 2009,
+  "avgPrice": 21475.22
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7c43"
+  },
+  "modelCount": 3,
+  "brand": "Acura",
+  "year": 2002,
+  "avgPrice": 25139.75
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7c44"
+  },
+  "modelCount": 1,
+  "brand": "GMC",
+  "year": 2007,
+  "avgPrice": 25557.59
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7c45"
+  },
+  "modelCount": 3,
+  "brand": "Mitsubishi",
+  "year": 2003,
+  "avgPrice": 25011.21
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7c46"
+  },
+  "modelCount": 2,
+  "brand": "BMW",
+  "year": 2013,
+  "avgPrice": 22866.39
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7c47"
+  },
+  "modelCount": 1,
+  "brand": "Chrysler",
+  "year": 1926,
+  "avgPrice": 28945.5
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7c48"
+  },
+  "modelCount": 1,
+  "brand": "Land Rover",
+  "year": 1998,
+  "avgPrice": 29173.14
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7c49"
+  },
+  "modelCount": 1,
+  "brand": "Isuzu",
+  "year": 2000,
+  "avgPrice": 24735.16
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7c4a"
+  },
+  "modelCount": 1,
+  "brand": "Audi",
+  "year": 1990,
+  "avgPrice": 21856.21
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7c4b"
+  },
+  "modelCount": 1,
+  "brand": "Buick",
+  "year": 1993,
+  "avgPrice": 24974.88
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7c4c"
+  },
+  "modelCount": 2,
+  "brand": "Buick",
+  "year": 1996,
+  "avgPrice": 25163.93
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7c4d"
+  },
+  "modelCount": 3,
+  "brand": "Audi",
+  "year": 1986,
+  "avgPrice": 22978.94
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7c4e"
+  },
+  "modelCount": 1,
+  "brand": "BMW",
+  "year": 1996,
+  "avgPrice": 22007.84
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7c4f"
+  },
+  "modelCount": 3,
+  "brand": "Mazda",
+  "year": 2001,
+  "avgPrice": 24317.15
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7c50"
+  },
+  "modelCount": 2,
+  "brand": "Volvo",
+  "year": 2011,
+  "avgPrice": 27905.74
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7c51"
+  },
+  "modelCount": 2,
+  "brand": "Acura",
+  "year": 1996,
+  "avgPrice": 25802.2
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7c52"
+  },
+  "modelCount": 1,
+  "brand": "Shelby",
+  "year": 1968,
+  "avgPrice": 20887.08
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7c53"
+  },
+  "modelCount": 1,
+  "brand": "Scion",
+  "year": 2006,
+  "avgPrice": 20640.38
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7c54"
+  },
+  "modelCount": 1,
+  "brand": "Porsche",
+  "year": 2003,
+  "avgPrice": 25625.79
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7c55"
+  },
+  "modelCount": 4,
+  "brand": "Dodge",
+  "year": 1997,
+  "avgPrice": 27556.86
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7c56"
+  },
+  "modelCount": 1,
+  "brand": "Kia",
+  "year": 2001,
+  "avgPrice": 21642.65
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7c57"
+  },
+  "modelCount": 3,
+  "brand": "Ford",
+  "year": 1999,
+  "avgPrice": 25652.06
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7c58"
+  },
+  "modelCount": 2,
+  "brand": "Honda",
+  "year": 2005,
+  "avgPrice": 21416.8
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7c59"
+  },
+  "modelCount": 1,
+  "brand": "Subaru",
+  "year": 1992,
+  "avgPrice": 21838.68
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7c5a"
+  },
+  "modelCount": 2,
+  "brand": "Pontiac",
+  "year": 2000,
+  "avgPrice": 25407.97
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7c5b"
+  },
+  "modelCount": 3,
+  "brand": "Chevrolet",
+  "year": 2003,
+  "avgPrice": 26260.25
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7c5c"
+  },
+  "modelCount": 3,
+  "brand": "Ford",
+  "year": 1989,
+  "avgPrice": 23282.61
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7c5d"
+  },
+  "modelCount": 1,
+  "brand": "Volkswagen",
+  "year": 2004,
+  "avgPrice": 22205.84
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7c5e"
+  },
+  "modelCount": 1,
+  "brand": "Lamborghini",
+  "year": 1988,
+  "avgPrice": 25002.05
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7c5f"
+  },
+  "modelCount": 2,
+  "brand": "Subaru",
+  "year": 2011,
+  "avgPrice": 24663.87
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7c60"
+  },
+  "modelCount": 1,
+  "brand": "Mercury",
+  "year": 2003,
+  "avgPrice": 25697.55
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7c61"
+  },
+  "modelCount": 2,
+  "brand": "Porsche",
+  "year": 1985,
+  "avgPrice": 25971.29
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7c62"
+  },
+  "modelCount": 2,
+  "brand": "Mitsubishi",
+  "year": 1984,
+  "avgPrice": 25080.28
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7c63"
+  },
+  "modelCount": 1,
+  "brand": "Audi",
+  "year": 1998,
+  "avgPrice": 28983.91
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7c64"
+  },
+  "modelCount": 1,
+  "brand": "Dodge",
+  "year": 2007,
+  "avgPrice": 27345.75
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7c65"
+  },
+  "modelCount": 1,
+  "brand": "Lincoln",
+  "year": 1990,
+  "avgPrice": 24206.11
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7c66"
+  },
+  "modelCount": 2,
+  "brand": "Suzuki",
+  "year": 2002,
+  "avgPrice": 25751.68
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7c67"
+  },
+  "modelCount": 1,
+  "brand": "Ford",
+  "year": 2010,
+  "avgPrice": 22815.59
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7c68"
+  },
+  "modelCount": 1,
+  "brand": "Isuzu",
+  "year": 1996,
+  "avgPrice": 21888.54
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7c69"
+  },
+  "modelCount": 1,
+  "brand": "Infiniti",
+  "year": 2001,
+  "avgPrice": 24731.5
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7c6a"
+  },
+  "modelCount": 1,
+  "brand": "Plymouth",
+  "year": 1981,
+  "avgPrice": 20900.27
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7c6b"
+  },
+  "modelCount": 1,
+  "brand": "Pontiac",
+  "year": 2006,
+  "avgPrice": 28482.38
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7c6c"
+  },
+  "modelCount": 2,
+  "brand": "Land Rover",
+  "year": 1997,
+  "avgPrice": 21433.74
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7c6d"
+  },
+  "modelCount": 2,
+  "brand": "Audi",
+  "year": 1995,
+  "avgPrice": 22788.91
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7c6e"
+  },
+  "modelCount": 3,
+  "brand": "GMC",
+  "year": 1998,
+  "avgPrice": 23410.88
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7c6f"
+  },
+  "modelCount": 1,
+  "brand": "Nissan",
+  "year": 2008,
+  "avgPrice": 24991
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7c70"
+  },
+  "modelCount": 2,
+  "brand": "Mazda",
+  "year": 1991,
+  "avgPrice": 26438.73
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7c71"
+  },
+  "modelCount": 1,
+  "brand": "Suzuki",
+  "year": 2006,
+  "avgPrice": 21114.12
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7c72"
+  },
+  "modelCount": 2,
+  "brand": "Buick",
+  "year": 1990,
+  "avgPrice": 22921.76
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7c73"
+  },
+  "modelCount": 1,
+  "brand": "Isuzu",
+  "year": 2004,
+  "avgPrice": 24008.93
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7c74"
+  },
+  "modelCount": 2,
+  "brand": "Aston Martin",
+  "year": 2010,
+  "avgPrice": 26902.57
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7c75"
+  },
+  "modelCount": 3,
+  "brand": "Buick",
+  "year": 1991,
+  "avgPrice": 25041.22
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7c76"
+  },
+  "modelCount": 1,
+  "brand": "Chrysler",
+  "year": 1992,
+  "avgPrice": 21588.15
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7c77"
+  },
+  "modelCount": 2,
+  "brand": "Kia",
+  "year": 2009,
+  "avgPrice": 24522.47
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7c78"
+  },
+  "modelCount": 2,
+  "brand": "Subaru",
+  "year": 2004,
+  "avgPrice": 26101.36
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7c79"
+  },
+  "modelCount": 3,
+  "brand": "Ford",
+  "year": 1996,
+  "avgPrice": 23621.17
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7c7a"
+  },
+  "modelCount": 3,
+  "brand": "MINI",
+  "year": 2012,
+  "avgPrice": 26755.12
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7c7b"
+  },
+  "modelCount": 1,
+  "brand": "Maserati",
+  "year": 2007,
+  "avgPrice": 28607.16
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7c7c"
+  },
+  "modelCount": 1,
+  "brand": "Lotus",
+  "year": 2008,
+  "avgPrice": 22347.61
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7c7d"
+  },
+  "modelCount": 1,
+  "brand": "Ford",
+  "year": 1966,
+  "avgPrice": 26269.41
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7c7e"
+  },
+  "modelCount": 1,
+  "brand": "Mazda",
+  "year": 2008,
+  "avgPrice": 26292.9
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7c7f"
+  },
+  "modelCount": 2,
+  "brand": "Honda",
+  "year": 2012,
+  "avgPrice": 28498.67
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7c80"
+  },
+  "modelCount": 1,
+  "brand": "Audi",
+  "year": 1997,
+  "avgPrice": 26075.9
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7c81"
+  },
+  "modelCount": 1,
+  "brand": "Subaru",
+  "year": 2002,
+  "avgPrice": 23806.16
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7c82"
+  },
+  "modelCount": 2,
+  "brand": "Chevrolet",
+  "year": 1999,
+  "avgPrice": 20444.39
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7c83"
+  },
+  "modelCount": 2,
+  "brand": "Plymouth",
+  "year": 1995,
+  "avgPrice": 27120.06
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7c84"
+  },
+  "modelCount": 3,
+  "brand": "Pontiac",
+  "year": 2003,
+  "avgPrice": 25358.26
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7c85"
+  },
+  "modelCount": 2,
+  "brand": "Kia",
+  "year": 2012,
+  "avgPrice": 22270.75
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7c86"
+  },
+  "modelCount": 3,
+  "brand": "Honda",
+  "year": 2001,
+  "avgPrice": 24362.82
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7c87"
+  },
+  "modelCount": 2,
+  "brand": "Cadillac",
+  "year": 2005,
+  "avgPrice": 28126.8
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7c88"
+  },
+  "modelCount": 1,
+  "brand": "Pontiac",
+  "year": 1966,
+  "avgPrice": 26020.89
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7c89"
+  },
+  "modelCount": 1,
+  "brand": "Volkswagen",
+  "year": 2011,
+  "avgPrice": 25140.42
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7c8a"
+  },
+  "modelCount": 1,
+  "brand": "Oldsmobile",
+  "year": 1996,
+  "avgPrice": 20260.17
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7c8b"
+  },
+  "modelCount": 2,
+  "brand": "BMW",
+  "year": 2000,
+  "avgPrice": 24208.76
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7c8c"
+  },
+  "modelCount": 2,
+  "brand": "Chevrolet",
+  "year": 1996,
+  "avgPrice": 26348.97
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7c8d"
+  },
+  "modelCount": 1,
+  "brand": "Jaguar",
+  "year": 2009,
+  "avgPrice": 20288.11
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7c8e"
+  },
+  "modelCount": 3,
+  "brand": "Nissan",
+  "year": 1997,
+  "avgPrice": 24044.5
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7c8f"
+  },
+  "modelCount": 1,
+  "brand": "Land Rover",
+  "year": 2012,
+  "avgPrice": 27101.85
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7c90"
+  },
+  "modelCount": 1,
+  "brand": "Pontiac",
+  "year": 1999,
+  "avgPrice": 20139.23
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7c91"
+  },
+  "modelCount": 1,
+  "brand": "Cadillac",
+  "year": 2003,
+  "avgPrice": 23761.45
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7c92"
+  },
+  "modelCount": 1,
+  "brand": "Ferrari",
+  "year": 2007,
+  "avgPrice": 28407.91
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7c93"
+  },
+  "modelCount": 1,
+  "brand": "Land Rover",
+  "year": 2009,
+  "avgPrice": 26281.66
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7c94"
+  },
+  "modelCount": 1,
+  "brand": "Buick",
+  "year": 2008,
+  "avgPrice": 27803.23
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7c95"
+  },
+  "modelCount": 2,
+  "brand": "Plymouth",
+  "year": 1993,
+  "avgPrice": 24420.14
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7c96"
+  },
+  "modelCount": 2,
+  "brand": "BMW",
+  "year": 2006,
+  "avgPrice": 21601.92
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7c97"
+  },
+  "modelCount": 2,
+  "brand": "Honda",
+  "year": 2009,
+  "avgPrice": 21714.99
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7c98"
+  },
+  "modelCount": 2,
+  "brand": "Acura",
+  "year": 2004,
+  "avgPrice": 23060.17
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7c99"
+  },
+  "modelCount": 1,
+  "brand": "Ram",
+  "year": 2011,
+  "avgPrice": 25398.89
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7c9a"
+  },
+  "modelCount": 5,
+  "brand": "Mercedes-Benz",
+  "year": 1993,
+  "avgPrice": 25347.48
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7c9b"
+  },
+  "modelCount": 3,
+  "brand": "BMW",
+  "year": 2004,
+  "avgPrice": 22717.9
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7c9c"
+  },
+  "modelCount": 1,
+  "brand": "Lincoln",
+  "year": 2000,
+  "avgPrice": 20711.51
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7c9d"
+  },
+  "modelCount": 1,
+  "brand": "Honda",
+  "year": 2007,
+  "avgPrice": 26394.02
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7c9e"
+  },
+  "modelCount": 1,
+  "brand": "Saab",
+  "year": 2005,
+  "avgPrice": 23898.17
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7c9f"
+  },
+  "modelCount": 1,
+  "brand": "Morgan",
+  "year": 2008,
+  "avgPrice": 21065.1
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7ca0"
+  },
+  "modelCount": 2,
+  "brand": "Ford",
+  "year": 1992,
+  "avgPrice": 26799.67
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7ca1"
+  },
+  "modelCount": 2,
+  "brand": "Chevrolet",
+  "year": 2002,
+  "avgPrice": 24157.28
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7ca2"
+  },
+  "modelCount": 1,
+  "brand": "Chevrolet",
+  "year": 1980,
+  "avgPrice": 24414.74
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7ca3"
+  },
+  "modelCount": 1,
+  "brand": "Nissan",
+  "year": 1990,
+  "avgPrice": 20863.67
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7ca4"
+  },
+  "modelCount": 2,
+  "brand": "Alfa Romeo",
+  "year": 1993,
+  "avgPrice": 26263.49
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7ca5"
+  },
+  "modelCount": 1,
+  "brand": "Lincoln",
+  "year": 2008,
+  "avgPrice": 23782.57
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7ca6"
+  },
+  "modelCount": 2,
+  "brand": "Kia",
+  "year": 2005,
+  "avgPrice": 22996.83
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7ca7"
+  },
+  "modelCount": 3,
+  "brand": "Mitsubishi",
+  "year": 1988,
+  "avgPrice": 23572.03
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7ca8"
+  },
+  "modelCount": 1,
+  "brand": "Dodge",
+  "year": 1998,
+  "avgPrice": 28018.41
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7ca9"
+  },
+  "modelCount": 1,
+  "brand": "Lamborghini",
+  "year": 2003,
+  "avgPrice": 22729.05
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7caa"
+  },
+  "modelCount": 1,
+  "brand": "Mazda",
+  "year": 1986,
+  "avgPrice": 24776.1
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7cab"
+  },
+  "modelCount": 1,
+  "brand": "Mitsubishi",
+  "year": 2005,
+  "avgPrice": 20578.56
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7cac"
+  },
+  "modelCount": 1,
+  "brand": "Infiniti",
+  "year": 2007,
+  "avgPrice": 23177.53
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7cad"
+  },
+  "modelCount": 1,
+  "brand": "Hyundai",
+  "year": 2011,
+  "avgPrice": 20437.16
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7cae"
+  },
+  "modelCount": 1,
+  "brand": "Toyota",
+  "year": 2003,
+  "avgPrice": 23702.67
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7caf"
+  },
+  "modelCount": 1,
+  "brand": "Infiniti",
+  "year": 2009,
+  "avgPrice": 23757.41
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7cb0"
+  },
+  "modelCount": 2,
+  "brand": "Dodge",
+  "year": 2001,
+  "avgPrice": 25896.8
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7cb1"
+  },
+  "modelCount": 1,
+  "brand": "Ford",
+  "year": 1994,
+  "avgPrice": 24919.77
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7cb2"
+  },
+  "modelCount": 1,
+  "brand": "Suzuki",
+  "year": 2004,
+  "avgPrice": 27378.63
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7cb3"
+  },
+  "modelCount": 2,
+  "brand": "Mazda",
+  "year": 1993,
+  "avgPrice": 21661.18
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7cb4"
+  },
+  "modelCount": 1,
+  "brand": "Mercury",
+  "year": 2005,
+  "avgPrice": 29763.56
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7cb5"
+  },
+  "modelCount": 1,
+  "brand": "Ford",
+  "year": 2013,
+  "avgPrice": 27803.22
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7cb6"
+  },
+  "modelCount": 3,
+  "brand": "Buick",
+  "year": 1986,
+  "avgPrice": 26589.58
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7cb7"
+  },
+  "modelCount": 2,
+  "brand": "Lexus",
+  "year": 2009,
+  "avgPrice": 24052.15
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7cb8"
+  },
+  "modelCount": 1,
+  "brand": "Hyundai",
+  "year": 2003,
+  "avgPrice": 24130.09
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7cb9"
+  },
+  "modelCount": 3,
+  "brand": "GMC",
+  "year": 2005,
+  "avgPrice": 25125.86
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7cba"
+  },
+  "modelCount": 1,
+  "brand": "Toyota",
+  "year": 2011,
+  "avgPrice": 23330.71
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7cbb"
+  },
+  "modelCount": 2,
+  "brand": "Mercury",
+  "year": 1994,
+  "avgPrice": 26231.15
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7cbc"
+  },
+  "modelCount": 3,
+  "brand": "Subaru",
+  "year": 2000,
+  "avgPrice": 24689.35
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7cbd"
+  },
+  "modelCount": 1,
+  "brand": "Volkswagen",
+  "year": 1991,
+  "avgPrice": 29913.7
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7cbe"
+  },
+  "modelCount": 2,
+  "brand": "Toyota",
+  "year": 2007,
+  "avgPrice": 26495.78
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7cbf"
+  },
+  "modelCount": 2,
+  "brand": "Lexus",
+  "year": 2000,
+  "avgPrice": 26182.47
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7cc0"
+  },
+  "modelCount": 6,
+  "brand": "Ford",
+  "year": 2009,
+  "avgPrice": 25358.62
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7cc1"
+  },
+  "modelCount": 2,
+  "brand": "Cadillac",
+  "year": 2008,
+  "avgPrice": 22797.72
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7cc2"
+  },
+  "modelCount": 2,
+  "brand": "Jeep",
+  "year": 2000,
+  "avgPrice": 23594.43
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7cc3"
+  },
+  "modelCount": 1,
+  "brand": "Dodge",
+  "year": 1993,
+  "avgPrice": 25740.2
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7cc4"
+  },
+  "modelCount": 1,
+  "brand": "BMW",
+  "year": 2008,
+  "avgPrice": 29499.64
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7cc5"
+  },
+  "modelCount": 1,
+  "brand": "Ford",
+  "year": 1972,
+  "avgPrice": 25585.39
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7cc6"
+  },
+  "modelCount": 2,
+  "brand": "Lexus",
+  "year": 2011,
+  "avgPrice": 24410.38
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7cc7"
+  },
+  "modelCount": 1,
+  "brand": "Maserati",
+  "year": 1986,
+  "avgPrice": 22263.85
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7cc8"
+  },
+  "modelCount": 1,
+  "brand": "Saturn",
+  "year": 2008,
+  "avgPrice": 29645.86
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7cc9"
+  },
+  "modelCount": 3,
+  "brand": "Mercury",
+  "year": 1986,
+  "avgPrice": 24485.87
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7cca"
+  },
+  "modelCount": 1,
+  "brand": "Porsche",
+  "year": 2007,
+  "avgPrice": 28074.3
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7ccb"
+  },
+  "modelCount": 5,
+  "brand": "Chevrolet",
+  "year": 2007,
+  "avgPrice": 25414.55
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7ccc"
+  },
+  "modelCount": 2,
+  "brand": "Ford",
+  "year": 2004,
+  "avgPrice": 23577.22
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7ccd"
+  },
+  "modelCount": 1,
+  "brand": "Saturn",
+  "year": 1998,
+  "avgPrice": 20517.13
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7cce"
+  },
+  "modelCount": 3,
+  "brand": "Mazda",
+  "year": 1995,
+  "avgPrice": 23714.5
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7ccf"
+  },
+  "modelCount": 1,
+  "brand": "Bugatti",
+  "year": 2011,
+  "avgPrice": 29993.77
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7cd0"
+  },
+  "modelCount": 1,
+  "brand": "Acura",
+  "year": 1997,
+  "avgPrice": 22507.42
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7cd1"
+  },
+  "modelCount": 2,
+  "brand": "Infiniti",
+  "year": 2008,
+  "avgPrice": 24702.6
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7cd2"
+  },
+  "modelCount": 1,
+  "brand": "Mitsubishi",
+  "year": 1989,
+  "avgPrice": 29100.24
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7cd3"
+  },
+  "modelCount": 2,
+  "brand": "Cadillac",
+  "year": 1998,
+  "avgPrice": 23257.29
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7cd4"
+  },
+  "modelCount": 4,
+  "brand": "Ford",
+  "year": 2006,
+  "avgPrice": 25496.19
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7cd5"
+  },
+  "modelCount": 1,
+  "brand": "Porsche",
+  "year": 1995,
+  "avgPrice": 26908.93
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7cd6"
+  },
+  "modelCount": 1,
+  "brand": "Mercury",
+  "year": 1997,
+  "avgPrice": 25920.91
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7cd7"
+  },
+  "modelCount": 2,
+  "brand": "Mitsubishi",
+  "year": 1992,
+  "avgPrice": 25638.76
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7cd8"
+  },
+  "modelCount": 1,
+  "brand": "Hyundai",
+  "year": 2007,
+  "avgPrice": 27140.36
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7cd9"
+  },
+  "modelCount": 1,
+  "brand": "Lincoln",
+  "year": 1996,
+  "avgPrice": 26388.19
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7cda"
+  },
+  "modelCount": 1,
+  "brand": "Honda",
+  "year": 1989,
+  "avgPrice": 20348.71
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7cdb"
+  },
+  "modelCount": 2,
+  "brand": "Buick",
+  "year": 1995,
+  "avgPrice": 23419.94
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7cdc"
+  },
+  "modelCount": 1,
+  "brand": "Mitsubishi",
+  "year": 1996,
+  "avgPrice": 25214.07
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7cdd"
+  },
+  "modelCount": 1,
+  "brand": "Oldsmobile",
+  "year": 1994,
+  "avgPrice": 20065.66
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7cde"
+  },
+  "modelCount": 3,
+  "brand": "Mitsubishi",
+  "year": 1994,
+  "avgPrice": 25690.36
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7cdf"
+  },
+  "modelCount": 2,
+  "brand": "Chevrolet",
+  "year": 1993,
+  "avgPrice": 22781.07
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7ce0"
+  },
+  "modelCount": 4,
+  "brand": "Ford",
+  "year": 2001,
+  "avgPrice": 23857.89
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7ce1"
+  },
+  "modelCount": 1,
+  "brand": "Audi",
+  "year": 2011,
+  "avgPrice": 21446.72
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7ce2"
+  },
+  "modelCount": 1,
+  "brand": "Pontiac",
+  "year": 1998,
+  "avgPrice": 27369.11
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7ce3"
+  },
+  "modelCount": 6,
+  "brand": "Ford",
+  "year": 2005,
+  "avgPrice": 25335.23
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7ce4"
+  },
+  "modelCount": 1,
+  "brand": "Chevrolet",
+  "year": 1957,
+  "avgPrice": 23835.26
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7ce5"
+  },
+  "modelCount": 2,
+  "brand": "Kia",
+  "year": 2007,
+  "avgPrice": 22532
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7ce6"
+  },
+  "modelCount": 1,
+  "brand": "Ferrari",
+  "year": 2009,
+  "avgPrice": 21071.6
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7ce7"
+  },
+  "modelCount": 1,
+  "brand": "Lexus",
+  "year": 2013,
+  "avgPrice": 29875.39
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7ce8"
+  },
+  "modelCount": 1,
+  "brand": "Mercury",
+  "year": 1992,
+  "avgPrice": 22417.63
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7ce9"
+  },
+  "modelCount": 1,
+  "brand": "Chrysler",
+  "year": 2006,
+  "avgPrice": 29982.4
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7cea"
+  },
+  "modelCount": 1,
+  "brand": "Ford",
+  "year": 2012,
+  "avgPrice": 21814.99
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7ceb"
+  },
+  "modelCount": 2,
+  "brand": "Cadillac",
+  "year": 2006,
+  "avgPrice": 25042.43
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7cec"
+  },
+  "modelCount": 1,
+  "brand": "Pontiac",
+  "year": 2007,
+  "avgPrice": 24010.62
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7ced"
+  },
+  "modelCount": 3,
+  "brand": "Dodge",
+  "year": 2000,
+  "avgPrice": 27175.64
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7cee"
+  },
+  "modelCount": 1,
+  "brand": "Oldsmobile",
+  "year": 1997,
+  "avgPrice": 26793.63
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7cef"
+  },
+  "modelCount": 1,
+  "brand": "Porsche",
+  "year": 1983,
+  "avgPrice": 22529.83
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7cf0"
+  },
+  "modelCount": 1,
+  "brand": "Saturn",
+  "year": 2006,
+  "avgPrice": 28099.11
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7cf1"
+  },
+  "modelCount": 1,
+  "brand": "Chrysler",
+  "year": 2009,
+  "avgPrice": 25977.9
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7cf2"
+  },
+  "modelCount": 1,
+  "brand": "Volvo",
+  "year": 1994,
+  "avgPrice": 21536.29
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7cf3"
+  },
+  "modelCount": 2,
+  "brand": "Mercedes-Benz",
+  "year": 2008,
+  "avgPrice": 23260.94
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7cf4"
+  },
+  "modelCount": 1,
+  "brand": "Mercedes-Benz",
+  "year": 1998,
+  "avgPrice": 25441.86
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7cf5"
+  },
+  "modelCount": 1,
+  "brand": "Ford",
+  "year": 1980,
+  "avgPrice": 22420.65
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7cf6"
+  },
+  "modelCount": 1,
+  "brand": "Isuzu",
+  "year": 1993,
+  "avgPrice": 25552.05
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7cf7"
+  },
+  "modelCount": 3,
+  "brand": "Toyota",
+  "year": 2002,
+  "avgPrice": 25587.56
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7cf8"
+  },
+  "modelCount": 1,
+  "brand": "Chevrolet",
+  "year": 2011,
+  "avgPrice": 29488.44
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7cf9"
+  },
+  "modelCount": 1,
+  "brand": "Mercedes-Benz",
+  "year": 2001,
+  "avgPrice": 20463.34
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7cfa"
+  },
+  "modelCount": 1,
+  "brand": "Porsche",
+  "year": 1970,
+  "avgPrice": 28741.51
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7cfb"
+  },
+  "modelCount": 2,
+  "brand": "Mitsubishi",
+  "year": 1997,
+  "avgPrice": 24682.83
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7cfc"
+  },
+  "modelCount": 1,
+  "brand": "Bentley",
+  "year": 2010,
+  "avgPrice": 29926.99
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7cfd"
+  },
+  "modelCount": 4,
+  "brand": "Ford",
+  "year": 2008,
+  "avgPrice": 26575
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7cfe"
+  },
+  "modelCount": 1,
+  "brand": "Nissan",
+  "year": 2010,
+  "avgPrice": 25695.44
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7cff"
+  },
+  "modelCount": 3,
+  "brand": "Lincoln",
+  "year": 2012,
+  "avgPrice": 25844.77
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7d00"
+  },
+  "modelCount": 1,
+  "brand": "Mitsubishi",
+  "year": 1985,
+  "avgPrice": 25733.36
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7d01"
+  },
+  "modelCount": 1,
+  "brand": "Suzuki",
+  "year": 2005,
+  "avgPrice": 28999.38
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7d02"
+  },
+  "modelCount": 1,
+  "brand": "Daewoo",
+  "year": 2002,
+  "avgPrice": 28611.61
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7d03"
+  },
+  "modelCount": 1,
+  "brand": "BMW",
+  "year": 1993,
+  "avgPrice": 21557.26
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7d04"
+  },
+  "modelCount": 1,
+  "brand": "Cadillac",
+  "year": 2004,
+  "avgPrice": 22125.21
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7d05"
+  },
+  "modelCount": 1,
+  "brand": "Maserati",
+  "year": 1989,
+  "avgPrice": 21002.83
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7d06"
+  },
+  "modelCount": 1,
+  "brand": "Land Rover",
+  "year": 1990,
+  "avgPrice": 22522.66
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7d07"
+  },
+  "modelCount": 1,
+  "brand": "Infiniti",
+  "year": 2003,
+  "avgPrice": 23350.97
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7d08"
+  },
+  "modelCount": 3,
+  "brand": "Chrysler",
+  "year": 2005,
+  "avgPrice": 26665.97
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7d09"
+  },
+  "modelCount": 1,
+  "brand": "Land Rover",
+  "year": 1989,
+  "avgPrice": 25799.07
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7d0a"
+  },
+  "modelCount": 2,
+  "brand": "Land Rover",
+  "year": 1994,
+  "avgPrice": 21835.22
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7d0b"
+  },
+  "modelCount": 1,
+  "brand": "Infiniti",
+  "year": 2005,
+  "avgPrice": 23905.61
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7d0c"
+  },
+  "modelCount": 1,
+  "brand": "Lexus",
+  "year": 1991,
+  "avgPrice": 22879.73
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7d0d"
+  },
+  "modelCount": 2,
+  "brand": "Saturn",
+  "year": 2005,
+  "avgPrice": 21790.06
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7d0e"
+  },
+  "modelCount": 1,
+  "brand": "GMC",
+  "year": 1997,
+  "avgPrice": 20236.8
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7d0f"
+  },
+  "modelCount": 5,
+  "brand": "GMC",
+  "year": 2002,
+  "avgPrice": 23536.31
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7d10"
+  },
+  "modelCount": 2,
+  "brand": "Nissan",
+  "year": 1992,
+  "avgPrice": 24211.07
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7d11"
+  },
+  "modelCount": 1,
+  "brand": "Plymouth",
+  "year": 1985,
+  "avgPrice": 25162.26
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7d12"
+  },
+  "modelCount": 2,
+  "brand": "Plymouth",
+  "year": 1998,
+  "avgPrice": 25124.44
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7d13"
+  },
+  "modelCount": 1,
+  "brand": "Hyundai",
+  "year": 2013,
+  "avgPrice": 22940.26
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7d14"
+  },
+  "modelCount": 3,
+  "brand": "Volkswagen",
+  "year": 1998,
+  "avgPrice": 26276.99
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7d15"
+  },
+  "modelCount": 1,
+  "brand": "Plymouth",
+  "year": 1976,
+  "avgPrice": 28018.54
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7d16"
+  },
+  "modelCount": 2,
+  "brand": "Nissan",
+  "year": 2000,
+  "avgPrice": 24910.59
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7d17"
+  },
+  "modelCount": 1,
+  "brand": "Lamborghini",
+  "year": 1994,
+  "avgPrice": 22281.76
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7d18"
+  },
+  "modelCount": 1,
+  "brand": "Volkswagen",
+  "year": 2007,
+  "avgPrice": 28581.79
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7d19"
+  },
+  "modelCount": 1,
+  "brand": "Saab",
+  "year": 1999,
+  "avgPrice": 29670.84
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7d1a"
+  },
+  "modelCount": 1,
+  "brand": "BMW",
+  "year": 2011,
+  "avgPrice": 25477
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7d1b"
+  },
+  "modelCount": 5,
+  "brand": "Ford",
+  "year": 1990,
+  "avgPrice": 24843.19
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7d1c"
+  },
+  "modelCount": 2,
+  "brand": "Chrysler",
+  "year": 2008,
+  "avgPrice": 27183.25
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7d1d"
+  },
+  "modelCount": 1,
+  "brand": "Acura",
+  "year": 1988,
+  "avgPrice": 24665.86
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7d1e"
+  },
+  "modelCount": 1,
+  "brand": "Lamborghini",
+  "year": 2006,
+  "avgPrice": 23565.68
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7d1f"
+  },
+  "modelCount": 2,
+  "brand": "Saturn",
+  "year": 2003,
+  "avgPrice": 24319.09
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7d20"
+  },
+  "modelCount": 2,
+  "brand": "Mercedes-Benz",
+  "year": 2009,
+  "avgPrice": 28472.75
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7d21"
+  },
+  "modelCount": 2,
+  "brand": "Mercedes-Benz",
+  "year": 2004,
+  "avgPrice": 25625.68
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7d22"
+  },
+  "modelCount": 1,
+  "brand": "Nissan",
+  "year": 1994,
+  "avgPrice": 22294.06
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7d23"
+  },
+  "modelCount": 1,
+  "brand": "Buick",
+  "year": 2009,
+  "avgPrice": 23443.56
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7d24"
+  },
+  "modelCount": 1,
+  "brand": "GMC",
+  "year": 1993,
+  "avgPrice": 23549.02
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7d25"
+  },
+  "modelCount": 2,
+  "brand": "BMW",
+  "year": 2003,
+  "avgPrice": 25021.28
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7d26"
+  },
+  "modelCount": 1,
+  "brand": "Mazda",
+  "year": 2012,
+  "avgPrice": 21323.93
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7d27"
+  },
+  "modelCount": 1,
+  "brand": "Lotus",
+  "year": 2012,
+  "avgPrice": 26463.58
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7d28"
+  },
+  "modelCount": 1,
+  "brand": "Lotus",
+  "year": 2006,
+  "avgPrice": 26395.94
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7d29"
+  },
+  "modelCount": 1,
+  "brand": "Cadillac",
+  "year": 2007,
+  "avgPrice": 23355.11
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7d2a"
+  },
+  "modelCount": 1,
+  "brand": "Chevrolet",
+  "year": 2005,
+  "avgPrice": 29687.41
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7d2b"
+  },
+  "modelCount": 1,
+  "brand": "Lamborghini",
+  "year": 2010,
+  "avgPrice": 23594.76
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7d2c"
+  },
+  "modelCount": 1,
+  "brand": "Mazda",
+  "year": 2004,
+  "avgPrice": 20235.85
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7d2d"
+  },
+  "modelCount": 3,
+  "brand": "Volvo",
+  "year": 2002,
+  "avgPrice": 26318.28
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7d2e"
+  },
+  "modelCount": 1,
+  "brand": "Cadillac",
+  "year": 2009,
+  "avgPrice": 21105.12
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7d2f"
+  },
+  "modelCount": 3,
+  "brand": "GMC",
+  "year": 2011,
+  "avgPrice": 25283.15
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7d30"
+  },
+  "modelCount": 1,
+  "brand": "Mitsubishi",
+  "year": 1999,
+  "avgPrice": 22838.83
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7d31"
+  },
+  "modelCount": 3,
+  "brand": "Mitsubishi",
+  "year": 2004,
+  "avgPrice": 26847.89
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7d32"
+  },
+  "modelCount": 1,
+  "brand": "BMW",
+  "year": 1995,
+  "avgPrice": 22054.36
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7d33"
+  },
+  "modelCount": 4,
+  "brand": "Toyota",
+  "year": 1998,
+  "avgPrice": 24225.23
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7d34"
+  },
+  "modelCount": 1,
+  "brand": "Subaru",
+  "year": 1994,
+  "avgPrice": 25007.23
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7d35"
+  },
+  "modelCount": 3,
+  "brand": "Mercedes-Benz",
+  "year": 2012,
+  "avgPrice": 23858.95
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7d36"
+  },
+  "modelCount": 4,
+  "brand": "Chevrolet",
+  "year": 2008,
+  "avgPrice": 24854.72
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7d37"
+  },
+  "modelCount": 1,
+  "brand": "Mitsubishi",
+  "year": 2009,
+  "avgPrice": 29295.15
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7d38"
+  },
+  "modelCount": 6,
+  "brand": "Ford",
+  "year": 2003,
+  "avgPrice": 27748.49
+},
+{
+  "_id": {
+    "$oid": "67ef470ebc94e79465de7d39"
+  },
+  "modelCount": 1,
+  "brand": "Mercury",
+  "year": 1987,
+  "avgPrice": 20339.09
+}]
